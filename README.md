@@ -9,9 +9,6 @@ Ten business cases solved in Excel with PivotTables, across roughly 198,000 rows
 starts from a raw dataset and answers a set of stakeholder questions using calculated fields,
 grouping, custom value calculations, slicers and conditional formatting.
 
-Every figure reported here was recomputed independently in Python against the raw data to verify
-the PivotTable output.
-
 ## Cases
 
 | # | Case | Rows | Write-up |
